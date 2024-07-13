@@ -1,5 +1,5 @@
 {
-  "name": "orbit-setup-script",
+  "name": "delegato",
   "dependencies": {
     "@arbitrum/nitro-contracts": "^1.1.1",
     "@arbitrum/orbit-sdk": "^0.8.0",
